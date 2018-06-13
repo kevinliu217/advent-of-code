@@ -1,4 +1,4 @@
-package com.fmr.day1;
+package code.challenge.day1;
 
 public class EsterBunny {
 
